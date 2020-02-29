@@ -1,6 +1,3 @@
-// const express = require("express")
-const bodyParser = require("body-parser")
-const request = require("request")
 const dotenv = require("dotenv")
 const { App } = require("@slack/bolt")
 
