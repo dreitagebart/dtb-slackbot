@@ -1,0 +1,10 @@
+{
+  "name": "dtb-slackbot",
+  "version": "1.0.0",
+  "description": "dreitagebart Slackbot",
+  "main": "index.js",
+  "repository": "https://github.com/dreitagebart/dtb-slackbot.git",
+  "author": "dreitagebart <stefan.buechold@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
